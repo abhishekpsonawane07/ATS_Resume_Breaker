@@ -12,3 +12,15 @@ Key Features:
 Usage:
 1. Upload your PDF resume.
 2. Ask questions about your resume content.
+
+
+#  OUTPUT
+
+![output main](https://github.com/abhishekpsonawane07/ATS_Resume_Breaker/assets/120458850/4027a46b-5c3f-4d0d-b1d3-46913386ca2a)
+
+
+
+![output 2](https://github.com/abhishekpsonawane07/ATS_Resume_Breaker/assets/120458850/47526a7c-d234-44a8-9db0-b726e430c94f)
+
+
+
