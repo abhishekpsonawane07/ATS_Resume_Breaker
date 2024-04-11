@@ -10,7 +10,7 @@ from langchain.chains.question_answering import load_qa_chain
 from langchain.callbacks import get_openai_callback
 import os
 
-os.environ['OPENAI_API_KEY'] = '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'
+os.environ['OPENAI_API_KEY'] = 'ADD OPEN AI KEY'
 
 # Set page layout
 st.set_page_config(
@@ -30,14 +30,14 @@ with st.sidebar:
     - Enhance your hiring process with AI!
     ''')
     st.write("")  # Adds a line break
-    st.write('Made by Team 8 AI&DS')
+    st.write('Made by _____ Team ')
 
 # Main content
 def main():
     st.header("Welcome to ATS Resume Breaker 💼💬")
     st.subheader("Upload your PDF resume and ask questions!")
 
-    openai_api_key = os.getenv('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')
+    openai_api_key = os.getenv('ADD OPEN AI KEY')
     load_dotenv()
 
     # Upload a PDF file
