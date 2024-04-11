@@ -1,17 +1,14 @@
 # ATS_Resume_Breaker
 
 About this project:
-The ATS Resume Analyzer is a powerful tool designed to assist job seekers in optimizing their resumes for Applicant Tracking Systems (ATS). The tool extracts insights from resumes uploaded in PDF format, leveraging advanced natural language processing (NLP) techniques. It uses OpenAI's language model for question-answering to provide valuable feedback and suggestions for improving resume content. By analyzing resumes with the ATS Resume Analyzer, users can enhance their resumes to increase their chances of success in job applications.
+The ATS Resume Analyzer is a potent tool designed to enhance job seekers' resumes for Applicant Tracking Systems (ATS). Leveraging advanced Natural Language Processing (NLP) techniques, it extracts insights from PDF resumes and offers valuable suggestions for optimization. Powered by OpenAI's language model, it provides actionable feedback to improve resume content and increase compatibility with ATS. With the ATS Resume Analyzer, users can boost their job application success rates by optimizing their resumes effectively.
 
 Key Features:
-
-  Upload PDF resumes for analysis.
-  Extract insights and suggestions for resume optimization.
-  Utilizes advanced NLP techniques for question-answering.
-  Provides feedback on resume content to improve compatibility with ATS.
-  Enhances job application success rates by optimizing resumes.
+1. Upload PDF resumes for detailed analysis.
+2. Extract valuable insights and optimization suggestions.
+3. Utilizes advanced NLP techniques for precise analysis.
+4. Enhances compatibility with Applicant Tracking Systems (ATS).
 
 Usage:
-
-  Upload your PDF resume.
-  Ask questions about your resume content.
+1. Upload your PDF resume.
+2. Ask questions about your resume content.
